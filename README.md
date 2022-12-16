@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [How to visualize your system architecture using the C4 model?](https://jorzel.hashnode.dev/how-to-visualize-your-system-architecture-using-the-c4-model)
- - 📰 [Deep work. Essentialism in asynchronous culture](https://jorzel.hashnode.dev/deep-work-essentialism-in-asynchronous-culture)
- - 🏆 [Atomic habits implemented](https://jorzel.hashnode.dev/atomic-habits-implemented)
- - 🔘 [Continuous learning framework](https://jorzel.hashnode.dev/continuous-learning-framework)
- - 📰 [When a database query is unexpectedly slow](https://jorzel.hashnode.dev/when-a-database-query-is-unexpectedly-slow)<!-- BLOGPOSTS:END -->
+ - 🔥 [Toward successful teams](https://jorzel.hashnode.dev/toward-successful-teams)
+ - 📰 [How to visualize your system architecture using the C4 model?](https://jorzel.hashnode.dev/how-to-visualize-your-system-architecture-using-the-c4-model)
+ - 🏆 [Deep work. Essentialism in asynchronous culture](https://jorzel.hashnode.dev/deep-work-essentialism-in-asynchronous-culture)
+ - 🔘 [Atomic habits implemented](https://jorzel.hashnode.dev/atomic-habits-implemented)
+ - 📰 [Continuous learning framework](https://jorzel.hashnode.dev/continuous-learning-framework)<!-- BLOGPOSTS:END -->
