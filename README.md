@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [Toward successful teams](https://jorzel.hashnode.dev/toward-successful-teams)
+ - 🔥 [5 traits of a successful team](https://jorzel.hashnode.dev/5-traits-of-a-successful-team)
  - 📰 [How to visualize your system architecture using the C4 model?](https://jorzel.hashnode.dev/how-to-visualize-your-system-architecture-using-the-c4-model)
  - 🏆 [Deep work. Essentialism in asynchronous culture](https://jorzel.hashnode.dev/deep-work-essentialism-in-asynchronous-culture)
  - 🔘 [Atomic habits implemented](https://jorzel.hashnode.dev/atomic-habits-implemented)
