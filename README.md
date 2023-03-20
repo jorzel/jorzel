@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [How to use Prometheus for web application monitoring](https://jorzel.hashnode.dev/how-to-use-prometheus-for-web-application-monitoring)
- - 📰 [Efficiency traps](https://jorzel.hashnode.dev/efficiency-traps)
- - 🏆 [Kubernetes - first steps](https://jorzel.hashnode.dev/kubernetes-my-first-steps)
- - 🔘 [5 traits of a successful team](https://jorzel.hashnode.dev/5-traits-of-a-successful-team)
- - 📰 [How to visualize your system architecture using the C4 model?](https://jorzel.hashnode.dev/how-to-visualize-your-system-architecture-using-the-c4-model)<!-- BLOGPOSTS:END -->
+ - 🔥 [6 unobvious tools that should be in your command-line toolbox](https://jorzel.hashnode.dev/6-tools-that-should-be-in-your-command-line-toolbox)
+ - 📰 [How to use Prometheus for web application monitoring](https://jorzel.hashnode.dev/how-to-use-prometheus-for-web-application-monitoring)
+ - 🏆 [Efficiency traps](https://jorzel.hashnode.dev/efficiency-traps)
+ - 🔘 [Kubernetes - first steps](https://jorzel.hashnode.dev/kubernetes-my-first-steps)
+ - 📰 [5 traits of a successful team](https://jorzel.hashnode.dev/5-traits-of-a-successful-team)<!-- BLOGPOSTS:END -->
