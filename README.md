@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [Talent is overestimated](https://jorzel.hashnode.dev/talent-is-overestimated)
- - 📰 [Finding flow: How to experience greater engagement in your work](https://jorzel.hashnode.dev/finding-flow-how-to-experience-greater-engagement-in-your-work)
- - 🏆 [How to build an alerting system with Prometheus and Alertmanager](https://jorzel.hashnode.dev/how-to-build-an-alerting-system-with-prometheus-and-alertmanager)
- - 🔘 [Step-by-step guide to safely introducing high-risk changes in your software system](https://jorzel.hashnode.dev/step-by-step-guide-to-safely-introducing-high-risk-changes-in-your-software-system)
- - 📰 [Finding enjoyment](https://jorzel.hashnode.dev/finding-enjoyment)<!-- BLOGPOSTS:END -->
+ - 🔥 [Repository Pattern in Golang: Redis and External API as providers](https://jorzel.hashnode.dev/repository-pattern-in-golang-redis-and-external-api-as-providers)
+ - 📰 [Talent is overestimated](https://jorzel.hashnode.dev/talent-is-overestimated)
+ - 🏆 [Finding flow: How to experience greater engagement in your work](https://jorzel.hashnode.dev/finding-flow-how-to-experience-greater-engagement-in-your-work)
+ - 🔘 [How to build an alerting system with Prometheus and Alertmanager](https://jorzel.hashnode.dev/how-to-build-an-alerting-system-with-prometheus-and-alertmanager)
+ - 📰 [Step-by-step guide to safely introducing high-risk changes in your software system](https://jorzel.hashnode.dev/step-by-step-guide-to-safely-introducing-high-risk-changes-in-your-software-system)<!-- BLOGPOSTS:END -->
