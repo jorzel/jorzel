@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [Strategic Domain-Driven Design: Subdomains](https://jorzel.hashnode.dev/strategic-domain-driven-design-subdomains-identification)
+ - 🔥 [Strategic Domain-Driven Design by Example: Subdomains](https://jorzel.hashnode.dev/strategic-domain-driven-design-subdomains-identification)
  - 📰 [The Power of Conventions in Software Development](https://jorzel.hashnode.dev/the-power-of-conventions-in-software-development)
  - 🏆 [Repository Pattern in Golang: Redis and External API as providers](https://jorzel.hashnode.dev/repository-pattern-in-golang-redis-and-external-api-as-providers)
  - 🔘 [Talent is overestimated](https://jorzel.hashnode.dev/talent-is-overestimated)
