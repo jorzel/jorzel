@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [How Codebase Structure Shapes System Predictability](https://jorzel.hashnode.dev/how-codebase-structure-shapes-system-predictability)
- - 📰 [Dangerous Short-Term Gains](https://jorzel.hashnode.dev/dangerous-short-term-gains)
- - 🏆 [Strategic Domain-Driven Design by Example: Subdomains](https://jorzel.hashnode.dev/strategic-domain-driven-design-subdomains-identification)
- - 🔘 [The Power of Conventions in Software Development](https://jorzel.hashnode.dev/the-power-of-conventions-in-software-development)
- - 📰 [Repository Pattern in Golang: Redis and External API as providers](https://jorzel.hashnode.dev/repository-pattern-in-golang-redis-and-external-api-as-providers)<!-- BLOGPOSTS:END -->
+ - 🔥 [Continuous Learning Framework vol. 2](https://jorzel.hashnode.dev/continuous-learning-framework-vol-2)
+ - 📰 [How Codebase Structure Shapes System Predictability](https://jorzel.hashnode.dev/how-codebase-structure-shapes-system-predictability)
+ - 🏆 [Dangerous Short-Term Gains](https://jorzel.hashnode.dev/dangerous-short-term-gains)
+ - 🔘 [Strategic Domain-Driven Design by Example: Subdomains](https://jorzel.hashnode.dev/strategic-domain-driven-design-subdomains-identification)
+ - 📰 [The Power of Conventions in Software Development](https://jorzel.hashnode.dev/the-power-of-conventions-in-software-development)<!-- BLOGPOSTS:END -->
