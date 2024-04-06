@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
  - 🔥 [It is time to stop doing wrong things righter](https://jorzel.hashnode.dev/it-is-time-to-stop-doing-wrong-things-righter)
- - 📰 [How to exploit Amazon S3 presigned URLs](https://jorzel.hashnode.dev/how-to-exploit-amazon-s3-presigned-urls)
+ - 📰 [How to utilize Amazon S3 presigned URLs](https://jorzel.hashnode.dev/how-to-exploit-amazon-s3-presigned-urls)
  - 🏆 [Enhancing Scan Performance with Redis Logical Databases](https://jorzel.hashnode.dev/enhancing-query-performance-with-redis-logical-databases)
  - 🔘 [The myth of natural talent](https://jorzel.hashnode.dev/the-myth-of-natural-talent)
  - 📰 [From Configuration to Automated Testing: A Comprehensive Guide to File Uploads with Amazon S3 and MinIO SDK in Go](https://jorzel.hashnode.dev/from-configuration-to-automated-testing-a-comprehensive-guide-to-file-uploads-with-amazon-s3-and-minio-sdk-in-go)<!-- BLOGPOSTS:END -->
