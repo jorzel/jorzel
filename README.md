@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [It is time to stop doing wrong things righter](https://levelup.gitconnected.com/it-is-time-to-stop-doing-wrong-things-righter-b2e29cc1fa50?source=rss-607ede630b31------2)
- - 📰 [How to utilize Amazon S3 presigned URLs](https://levelup.gitconnected.com/how-to-exploit-amazon-s3-presigned-urls-adffc32fb26a?source=rss-607ede630b31------2)
- - 🏆 [How to handle authentication and authorization in GraphQL API](https://levelup.gitconnected.com/how-to-implement-authentication-and-authorization-in-graphql-api-90c17a92a5d9?source=rss-607ede630b31------2)
- - 🔘 [Two perspectives of coupling](https://levelup.gitconnected.com/two-perspectives-of-coupling-0cf01419ae20?source=rss-607ede630b31------2)
- - 📰 [Can we work differently?](https://medium.com/illumination/can-we-work-differently-3c6d52eb0025?source=rss-607ede630b31------2)<!-- BLOGPOSTS:END -->
+ - 🔥 [How to improve your documentation with diagrams](https://levelup.gitconnected.com/how-to-improve-your-documentation-with-diagrams-f093be8cec75?source=rss-607ede630b31------2)
+ - 📰 [It is time to stop doing wrong things righter](https://levelup.gitconnected.com/it-is-time-to-stop-doing-wrong-things-righter-b2e29cc1fa50?source=rss-607ede630b31------2)
+ - 🏆 [How to utilize Amazon S3 presigned URLs](https://levelup.gitconnected.com/how-to-exploit-amazon-s3-presigned-urls-adffc32fb26a?source=rss-607ede630b31------2)
+ - 🔘 [How to handle authentication and authorization in GraphQL API](https://levelup.gitconnected.com/how-to-implement-authentication-and-authorization-in-graphql-api-90c17a92a5d9?source=rss-607ede630b31------2)
+ - 📰 [Two perspectives of coupling](https://levelup.gitconnected.com/two-perspectives-of-coupling-0cf01419ae20?source=rss-607ede630b31------2)<!-- BLOGPOSTS:END -->
