@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [Graceful Shutdown: Why It Matters and How to Implement It](https://levelup.gitconnected.com/graceful-shutdown-why-it-matters-and-how-to-implement-it-919e741b397e?source=rss-607ede630b31------2)
- - 📰 [Demand and support. The universal patterns of leadership](https://medium.com/illuminations-mirror/demand-and-support-the-universal-patterns-of-leadership-9dacf6da3bfb?source=rss-607ede630b31------2)
- - 🏆 [How to improve the visibility of system internals](https://blog.devops.dev/how-to-improve-the-visibility-of-system-internals-dd4d39d1f4c2?source=rss-607ede630b31------2)
- - 🔘 [How to improve your documentation with diagrams](https://levelup.gitconnected.com/how-to-improve-your-documentation-with-diagrams-f093be8cec75?source=rss-607ede630b31------2)
- - 📰 [It is time to stop doing wrong things righter](https://levelup.gitconnected.com/it-is-time-to-stop-doing-wrong-things-righter-b2e29cc1fa50?source=rss-607ede630b31------2)<!-- BLOGPOSTS:END -->
+ - 🔥 [How to Avoid Common Pitfalls in Concurrent Programming](https://levelup.gitconnected.com/how-to-avoid-common-pitfalls-in-concurrent-programming-eb113c586111?source=rss-607ede630b31------2)
+ - 📰 [Graceful Shutdown: Why It Matters and How to Implement It](https://levelup.gitconnected.com/graceful-shutdown-why-it-matters-and-how-to-implement-it-919e741b397e?source=rss-607ede630b31------2)
+ - 🏆 [Demand and support. The universal patterns of leadership](https://medium.com/illuminations-mirror/demand-and-support-the-universal-patterns-of-leadership-9dacf6da3bfb?source=rss-607ede630b31------2)
+ - 🔘 [How to improve the visibility of system internals](https://blog.devops.dev/how-to-improve-the-visibility-of-system-internals-dd4d39d1f4c2?source=rss-607ede630b31------2)
+ - 📰 [How to improve your documentation with diagrams](https://levelup.gitconnected.com/how-to-improve-your-documentation-with-diagrams-f093be8cec75?source=rss-607ede630b31------2)<!-- BLOGPOSTS:END -->
