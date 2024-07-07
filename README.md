@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [About the Importance of Character Skills](https://medium.com/illuminations-mirror/about-the-importance-of-character-skills-b453b333cec7?source=rss-607ede630b31------2)
- - 📰 [An event-driven approach is not a golden hammer](https://levelup.gitconnected.com/an-event-driven-approach-is-not-a-golden-hammer-b1b9265ec7d6?source=rss-607ede630b31------2)
- - 🏆 [How to Avoid a Common Pitfall in Concurrent Programming](https://levelup.gitconnected.com/how-to-avoid-common-pitfalls-in-concurrent-programming-eb113c586111?source=rss-607ede630b31------2)
- - 🔘 [Graceful Shutdown: Why It Matters and How to Implement It](https://levelup.gitconnected.com/graceful-shutdown-why-it-matters-and-how-to-implement-it-919e741b397e?source=rss-607ede630b31------2)
- - 📰 [Demand and support. The universal patterns of leadership](https://medium.com/illuminations-mirror/demand-and-support-the-universal-patterns-of-leadership-9dacf6da3bfb?source=rss-607ede630b31------2)<!-- BLOGPOSTS:END -->
+ - 🔥 [How to Mock HTTP Servers with Prism and OpenAPI specs](https://levelup.gitconnected.com/how-to-mock-http-servers-with-prism-and-openapi-specs-6c75aaf013fa?source=rss-607ede630b31------2)
+ - 📰 [About the Importance of Character Skills](https://medium.com/illuminations-mirror/about-the-importance-of-character-skills-b453b333cec7?source=rss-607ede630b31------2)
+ - 🏆 [An event-driven approach is not a golden hammer](https://levelup.gitconnected.com/an-event-driven-approach-is-not-a-golden-hammer-b1b9265ec7d6?source=rss-607ede630b31------2)
+ - 🔘 [How to Avoid a Common Pitfall in Concurrent Programming](https://levelup.gitconnected.com/how-to-avoid-common-pitfalls-in-concurrent-programming-eb113c586111?source=rss-607ede630b31------2)
+ - 📰 [Graceful Shutdown: Why It Matters and How to Implement It](https://levelup.gitconnected.com/graceful-shutdown-why-it-matters-and-how-to-implement-it-919e741b397e?source=rss-607ede630b31------2)<!-- BLOGPOSTS:END -->
