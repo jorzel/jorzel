@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [Why I Write](https://medium.com/illuminations-mirror/why-i-write-d18f93972c24?source=rss-607ede630b31------2)
- - 📰 [6 Books That Changed the Way I Think](https://baos.pub/6-books-that-changed-the-way-i-think-699dd5f25335?source=rss-607ede630b31------2)
- - 🏆 [The Talent Debate: Does Mastery Require Giftedness?](https://medium.com/@orzel.jarek/the-talent-debate-does-mastery-require-giftedness-c019c57dca08?source=rss-607ede630b31------2)
- - 🔘 [How to Mock HTTP Servers with Prism and OpenAPI specs](https://levelup.gitconnected.com/how-to-mock-http-servers-with-prism-and-openapi-specs-6c75aaf013fa?source=rss-607ede630b31------2)
- - 📰 [About the Importance of Character Skills](https://medium.com/@orzel.jarek/about-the-importance-of-character-skills-b453b333cec7?source=rss-607ede630b31------2)<!-- BLOGPOSTS:END -->
+ - 🔥 [How to Integrate Your Services Using GCP Pub-Sub](https://blog.devops.dev/how-to-integrate-your-services-using-gcp-pub-sub-af54bd9b7a3d?source=rss-607ede630b31------2)
+ - 📰 [Why I Write](https://medium.com/illuminations-mirror/why-i-write-d18f93972c24?source=rss-607ede630b31------2)
+ - 🏆 [6 Books That Changed the Way I Think](https://baos.pub/6-books-that-changed-the-way-i-think-699dd5f25335?source=rss-607ede630b31------2)
+ - 🔘 [The Talent Debate: Does Mastery Require Giftedness?](https://medium.com/@orzel.jarek/the-talent-debate-does-mastery-require-giftedness-c019c57dca08?source=rss-607ede630b31------2)
+ - 📰 [How to Mock HTTP Servers with Prism and OpenAPI specs](https://levelup.gitconnected.com/how-to-mock-http-servers-with-prism-and-openapi-specs-6c75aaf013fa?source=rss-607ede630b31------2)<!-- BLOGPOSTS:END -->
