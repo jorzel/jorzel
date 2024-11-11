@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [How to Incorporate AWS Lambda into a Distributed System](https://levelup.gitconnected.com/how-to-incorporate-aws-lambda-into-a-distributed-system-3dcec2e09270?source=rss-607ede630b31------2)
- - 📰 [9 Laws That Every Software Developer Should Know](https://levelup.gitconnected.com/9-laws-that-every-software-developer-should-know-a5518bfef022?source=rss-607ede630b31------2)
- - 🏆 [How to Integrate Your Services Using GCP Pub-Sub](https://blog.devops.dev/how-to-integrate-your-services-using-gcp-pub-sub-af54bd9b7a3d?source=rss-607ede630b31------2)
- - 🔘 [Why I Write](https://medium.com/illuminations-mirror/why-i-write-d18f93972c24?source=rss-607ede630b31------2)
- - 📰 [6 Books That Changed the Way I Think](https://baos.pub/6-books-that-changed-the-way-i-think-699dd5f25335?source=rss-607ede630b31------2)<!-- BLOGPOSTS:END -->
+ - 🔥 [What It Means to Be a 10x Engineer](https://levelup.gitconnected.com/what-it-means-to-be-a-10x-engineer-0f5c4db543a6?source=rss-607ede630b31------2)
+ - 📰 [How to Incorporate AWS Lambda into a Distributed System](https://levelup.gitconnected.com/how-to-incorporate-aws-lambda-into-a-distributed-system-3dcec2e09270?source=rss-607ede630b31------2)
+ - 🏆 [9 Laws That Every Software Developer Should Know](https://levelup.gitconnected.com/9-laws-that-every-software-developer-should-know-a5518bfef022?source=rss-607ede630b31------2)
+ - 🔘 [How to Integrate Your Services Using GCP Pub-Sub](https://blog.devops.dev/how-to-integrate-your-services-using-gcp-pub-sub-af54bd9b7a3d?source=rss-607ede630b31------2)
+ - 📰 [Why I Write](https://medium.com/illuminations-mirror/why-i-write-d18f93972c24?source=rss-607ede630b31------2)<!-- BLOGPOSTS:END -->
