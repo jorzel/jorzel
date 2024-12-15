@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [The Idea of Synthetic Monitoring](https://levelup.gitconnected.com/the-idea-of-synthetic-monitoring-6c1e9d1caa07?source=rss-607ede630b31------2)
- - 📰 [How to Determine What is Important](https://medium.com/@orzel.jarek/how-to-determine-what-is-important-13302d3ebc9f?source=rss-607ede630b31------2)
- - 🏆 [What It Means to Be a 10x Engineer](https://levelup.gitconnected.com/what-it-means-to-be-a-10x-engineer-0f5c4db543a6?source=rss-607ede630b31------2)
- - 🔘 [How to Incorporate AWS Lambda into a Distributed System](https://levelup.gitconnected.com/how-to-incorporate-aws-lambda-into-a-distributed-system-3dcec2e09270?source=rss-607ede630b31------2)
- - 📰 [9 Laws That Every Software Developer Should Know](https://levelup.gitconnected.com/9-laws-that-every-software-developer-should-know-a5518bfef022?source=rss-607ede630b31------2)<!-- BLOGPOSTS:END -->
+ - 🔥 [Observability Series: A Step-by-Step Guide to Logs, Traces, and Metrics](https://levelup.gitconnected.com/observability-series-a-step-by-step-guide-to-logs-traces-and-metrics-9860d7c46220?source=rss-607ede630b31------2)
+ - 📰 [The Idea of Synthetic Monitoring](https://levelup.gitconnected.com/the-idea-of-synthetic-monitoring-6c1e9d1caa07?source=rss-607ede630b31------2)
+ - 🏆 [How to Determine What is Important](https://medium.com/@orzel.jarek/how-to-determine-what-is-important-13302d3ebc9f?source=rss-607ede630b31------2)
+ - 🔘 [What It Means to Be a 10x Engineer](https://levelup.gitconnected.com/what-it-means-to-be-a-10x-engineer-0f5c4db543a6?source=rss-607ede630b31------2)
+ - 📰 [How to Incorporate AWS Lambda into a Distributed System](https://levelup.gitconnected.com/how-to-incorporate-aws-lambda-into-a-distributed-system-3dcec2e09270?source=rss-607ede630b31------2)<!-- BLOGPOSTS:END -->
