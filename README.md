@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [9 Life Insights from “Four Thousand Weeks”](https://medium.com/@orzel.jarek/9-life-insights-from-four-thousand-weeks-709966900bdf?source=rss-607ede630b31------2)
- - 📰 [The Traps of Shallow Understanding: When Models and Observations Are Not Enough](https://medium.com/@orzel.jarek/the-traps-of-shallow-understanding-when-models-and-observations-are-not-enough-04980c2c6fc4?source=rss-607ede630b31------2)
- - 🏆 [The Long Game: Meditations on Productivity and Improvement](https://levelup.gitconnected.com/the-long-game-meditations-on-productivity-and-improvement-8f47edf34cd2?source=rss-607ede630b31------2)
- - 🔘 [How to Improve as a Software Developer by Embracing Ultralearning Principles](https://levelup.gitconnected.com/how-to-improve-as-a-software-developer-by-embracing-ultralearning-principles-c8e7706f213d?source=rss-607ede630b31------2)
- - 📰 [Observability Series: A Step-by-Step Guide to Logs, Traces, and Metrics](https://levelup.gitconnected.com/observability-series-a-step-by-step-guide-to-logs-traces-and-metrics-9860d7c46220?source=rss-607ede630b31------2)<!-- BLOGPOSTS:END -->
+ - 🔥 [What is Rate Limiting and How to Implement It? From Algorithms to System Architecture](https://levelup.gitconnected.com/what-is-rate-limiting-and-how-to-implement-it-from-algorithms-to-system-architecture-c4ed37adefe9?source=rss-607ede630b31------2)
+ - 📰 [9 Life Insights from “Four Thousand Weeks”](https://medium.com/@orzel.jarek/9-life-insights-from-four-thousand-weeks-709966900bdf?source=rss-607ede630b31------2)
+ - 🏆 [The Traps of Shallow Understanding: When Models and Observations Are Not Enough](https://medium.com/@orzel.jarek/the-traps-of-shallow-understanding-when-models-and-observations-are-not-enough-04980c2c6fc4?source=rss-607ede630b31------2)
+ - 🔘 [The Long Game: Meditations on Productivity and Improvement](https://levelup.gitconnected.com/the-long-game-meditations-on-productivity-and-improvement-8f47edf34cd2?source=rss-607ede630b31------2)
+ - 📰 [How to Improve as a Software Developer by Embracing Ultralearning Principles](https://levelup.gitconnected.com/how-to-improve-as-a-software-developer-by-embracing-ultralearning-principles-c8e7706f213d?source=rss-607ede630b31------2)<!-- BLOGPOSTS:END -->
