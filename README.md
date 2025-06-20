@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [Building Your Redis From Scratch: Implementing a Basic Server in Go](https://levelup.gitconnected.com/building-your-redis-from-scratch-implementing-a-basic-server-in-go-de74147c79d5?source=rss-607ede630b31------2)
- - 📰 [Understanding Consistent Hashing: Concepts, Pitfalls, and Real-World Use Cases](https://levelup.gitconnected.com/understanding-consistent-hashing-concepts-pitfalls-and-real-world-use-cases-2b0571689330?source=rss-607ede630b31------2)
- - 🏆 [What is Rate Limiting and How to Implement It? From Algorithms to System Architecture](https://levelup.gitconnected.com/what-is-rate-limiting-and-how-to-implement-it-from-algorithms-to-system-architecture-c4ed37adefe9?source=rss-607ede630b31------2)
- - 🔘 [9 Life Insights from “Four Thousand Weeks”](https://medium.com/@orzel.jarek/9-life-insights-from-four-thousand-weeks-709966900bdf?source=rss-607ede630b31------2)
- - 📰 [The Traps of Shallow Understanding: When Models and Observations Are Not Enough](https://medium.com/@orzel.jarek/the-traps-of-shallow-understanding-when-models-and-observations-are-not-enough-04980c2c6fc4?source=rss-607ede630b31------2)<!-- BLOGPOSTS:END -->
+ - 🔥 [Building your Redis From Scratch: Multi-Node Architecture &amp; Initial Communication](https://levelup.gitconnected.com/building-your-redis-from-scratch-multi-node-architecture-initial-communication-cadfbdb1a4bb?source=rss-607ede630b31------2)
+ - 📰 [Building Your Redis From Scratch: Implementing a Basic Server in Go](https://levelup.gitconnected.com/building-your-redis-from-scratch-implementing-a-basic-server-in-go-de74147c79d5?source=rss-607ede630b31------2)
+ - 🏆 [Understanding Consistent Hashing: Concepts, Pitfalls, and Real-World Use Cases](https://levelup.gitconnected.com/understanding-consistent-hashing-concepts-pitfalls-and-real-world-use-cases-2b0571689330?source=rss-607ede630b31------2)
+ - 🔘 [What is Rate Limiting and How to Implement It? From Algorithms to System Architecture](https://levelup.gitconnected.com/what-is-rate-limiting-and-how-to-implement-it-from-algorithms-to-system-architecture-c4ed37adefe9?source=rss-607ede630b31------2)
+ - 📰 [9 Life Insights from “Four Thousand Weeks”](https://medium.com/@orzel.jarek/9-life-insights-from-four-thousand-weeks-709966900bdf?source=rss-607ede630b31------2)<!-- BLOGPOSTS:END -->
