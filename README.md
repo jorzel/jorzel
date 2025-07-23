@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [The Arsonist’s Reward: Why We Fix Instead of Prevent](https://medium.com/@orzel.jarek/the-arsonists-reward-why-we-fix-instead-of-prevent-e526526329d8?source=rss-607ede630b31------2)
- - 📰 [What Went Wrong with Our Happiness](https://medium.com/@orzel.jarek/what-went-wrong-with-our-happiness-aa1f017ba05e?source=rss-607ede630b31------2)
- - 🏆 [Building your Redis From Scratch: Multi-Node Architecture &amp; Initial Communication](https://levelup.gitconnected.com/building-your-redis-from-scratch-multi-node-architecture-initial-communication-cadfbdb1a4bb?source=rss-607ede630b31------2)
- - 🔘 [Building Your Redis From Scratch: Implementing a Basic Server in Go](https://levelup.gitconnected.com/building-your-redis-from-scratch-implementing-a-basic-server-in-go-de74147c79d5?source=rss-607ede630b31------2)
- - 📰 [Understanding Consistent Hashing: Concepts, Pitfalls, and Real-World Use Cases](https://levelup.gitconnected.com/understanding-consistent-hashing-concepts-pitfalls-and-real-world-use-cases-2b0571689330?source=rss-607ede630b31------2)<!-- BLOGPOSTS:END -->
+ - 🔥 [“How Many Tennis Balls Fit in a Bus?” — Why Weird Interview Questions Sometimes Make Sense](https://medium.com/@orzel.jarek/how-many-tennis-balls-fit-in-a-bus-why-weird-interview-questions-sometimes-make-sense-ec24f6aeec4e?source=rss-607ede630b31------2)
+ - 📰 [The Arsonist’s Reward: Why We Fix Instead of Prevent](https://medium.com/@orzel.jarek/the-arsonists-reward-why-we-fix-instead-of-prevent-e526526329d8?source=rss-607ede630b31------2)
+ - 🏆 [What Went Wrong with Our Happiness](https://medium.com/@orzel.jarek/what-went-wrong-with-our-happiness-aa1f017ba05e?source=rss-607ede630b31------2)
+ - 🔘 [Building your Redis From Scratch: Multi-Node Architecture &amp; Initial Communication](https://levelup.gitconnected.com/building-your-redis-from-scratch-multi-node-architecture-initial-communication-cadfbdb1a4bb?source=rss-607ede630b31------2)
+ - 📰 [Building Your Redis From Scratch: Implementing a Basic Server in Go](https://levelup.gitconnected.com/building-your-redis-from-scratch-implementing-a-basic-server-in-go-de74147c79d5?source=rss-607ede630b31------2)<!-- BLOGPOSTS:END -->
