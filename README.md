@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [The Hidden Forces Shaping Our Systems: Cognitive Biases in Software Development](https://levelup.gitconnected.com/the-hidden-forces-shaping-our-systems-cognitive-biases-in-software-development-c8024695e3e4?source=rss-607ede630b31------2)
- - 📰 [3 Questions That Will Make You Rethink Your Life](https://medium.com/@orzel.jarek/3-questions-that-will-make-you-rethink-your-life-76e761948416?source=rss-607ede630b31------2)
- - 🏆 [“How Many Tennis Balls Fit in a Bus?” — Why Weird Interview Questions Sometimes Make Sense](https://medium.com/@orzel.jarek/how-many-tennis-balls-fit-in-a-bus-why-weird-interview-questions-sometimes-make-sense-ec24f6aeec4e?source=rss-607ede630b31------2)
- - 🔘 [The Arsonist’s Reward: Why We Fix Instead of Prevent](https://medium.com/@orzel.jarek/the-arsonists-reward-why-we-fix-instead-of-prevent-e526526329d8?source=rss-607ede630b31------2)
- - 📰 [What Went Wrong with Our Happiness](https://medium.com/@orzel.jarek/what-went-wrong-with-our-happiness-aa1f017ba05e?source=rss-607ede630b31------2)<!-- BLOGPOSTS:END -->
+ - 🔥 [Strategic DDD by Example: Bounded Contexts Mapping](https://levelup.gitconnected.com/strategic-ddd-by-example-bounded-contexts-mapping-d94ffcd45954?source=rss-607ede630b31------2)
+ - 📰 [The Hidden Forces Shaping Our Systems: Cognitive Biases in Software Development](https://levelup.gitconnected.com/the-hidden-forces-shaping-our-systems-cognitive-biases-in-software-development-c8024695e3e4?source=rss-607ede630b31------2)
+ - 🏆 [3 Questions That Will Make You Rethink Your Life](https://medium.com/@orzel.jarek/3-questions-that-will-make-you-rethink-your-life-76e761948416?source=rss-607ede630b31------2)
+ - 🔘 [“How Many Tennis Balls Fit in a Bus?” — Why Weird Interview Questions Sometimes Make Sense](https://medium.com/@orzel.jarek/how-many-tennis-balls-fit-in-a-bus-why-weird-interview-questions-sometimes-make-sense-ec24f6aeec4e?source=rss-607ede630b31------2)
+ - 📰 [The Arsonist’s Reward: Why We Fix Instead of Prevent](https://medium.com/@orzel.jarek/the-arsonists-reward-why-we-fix-instead-of-prevent-e526526329d8?source=rss-607ede630b31------2)<!-- BLOGPOSTS:END -->
