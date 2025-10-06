@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [Finding Balance: The Art of Living Between Extremes](https://medium.com/@orzel.jarek/finding-balance-the-art-of-living-between-extremes-05cad4064ed9?source=rss-607ede630b31------2)
- - 📰 [Generating Unique and Sortable IDs in Distributed Systems](https://levelup.gitconnected.com/generating-unique-and-sortable-ids-in-distributed-systems-e0bb7a008dab?source=rss-607ede630b31------2)
- - 🏆 [Strategic DDD by Example: Bounded Contexts Mapping](https://levelup.gitconnected.com/strategic-ddd-by-example-bounded-contexts-mapping-d94ffcd45954?source=rss-607ede630b31------2)
- - 🔘 [The Hidden Forces Shaping Our Systems: Cognitive Biases in Software Development](https://levelup.gitconnected.com/the-hidden-forces-shaping-our-systems-cognitive-biases-in-software-development-c8024695e3e4?source=rss-607ede630b31------2)
- - 📰 [3 Questions That Will Make You Rethink Your Life](https://medium.com/@orzel.jarek/3-questions-that-will-make-you-rethink-your-life-76e761948416?source=rss-607ede630b31------2)<!-- BLOGPOSTS:END -->
+ - 🔥 [Redis and the Magic of ZSET](https://levelup.gitconnected.com/redis-and-the-magic-of-zset-732dbbfbb22a?source=rss-607ede630b31------2)
+ - 📰 [Finding Balance: The Art of Living Between Extremes](https://medium.com/@orzel.jarek/finding-balance-the-art-of-living-between-extremes-05cad4064ed9?source=rss-607ede630b31------2)
+ - 🏆 [Generating Unique and Sortable IDs in Distributed Systems](https://levelup.gitconnected.com/generating-unique-and-sortable-ids-in-distributed-systems-e0bb7a008dab?source=rss-607ede630b31------2)
+ - 🔘 [Strategic DDD by Example: Bounded Contexts Mapping](https://levelup.gitconnected.com/strategic-ddd-by-example-bounded-contexts-mapping-d94ffcd45954?source=rss-607ede630b31------2)
+ - 📰 [The Hidden Forces Shaping Our Systems: Cognitive Biases in Software Development](https://levelup.gitconnected.com/the-hidden-forces-shaping-our-systems-cognitive-biases-in-software-development-c8024695e3e4?source=rss-607ede630b31------2)<!-- BLOGPOSTS:END -->
