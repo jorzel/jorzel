@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [Talent as a System](https://medium.com/mentally-mosaic/talent-as-a-system-17ac05b8950a?source=rss-607ede630b31------2)
+ - 🔥 [Talent Is a Loop, Not a Gift](https://medium.com/mentally-mosaic/talent-as-a-system-17ac05b8950a?source=rss-607ede630b31------2)
  - 📰 [Redis and the Magic of ZSET](https://levelup.gitconnected.com/redis-and-the-magic-of-zset-732dbbfbb22a?source=rss-607ede630b31------2)
  - 🏆 [Finding Balance: The Art of Living Between Extremes](https://medium.com/@orzel.jarek/finding-balance-the-art-of-living-between-extremes-05cad4064ed9?source=rss-607ede630b31------2)
  - 🔘 [Generating Unique and Sortable IDs in Distributed Systems](https://levelup.gitconnected.com/generating-unique-and-sortable-ids-in-distributed-systems-e0bb7a008dab?source=rss-607ede630b31------2)
