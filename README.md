@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [When Deliberate Practice Isn’t Enough](https://medium.com/mentally-mosaic/when-deliberate-practice-isnt-enough-e3d8812e9a0d?source=rss-607ede630b31------2)
+ - 🔥 [When Deliberate Practice Isn’t Enough](https://medium.com/@orzel.jarek/when-deliberate-practice-isnt-enough-e3d8812e9a0d?source=rss-607ede630b31------2)
  - 📰 [Tactical DDD by Example: Can We Implement Aggregates Using Redis?](https://levelup.gitconnected.com/tactical-ddd-by-example-can-we-implement-aggregates-using-redis-82e6a4804f5c?source=rss-607ede630b31------2)
- - 🏆 [Talent Is a Loop, Not a Gift](https://medium.com/mentally-mosaic/talent-as-a-system-17ac05b8950a?source=rss-607ede630b31------2)
+ - 🏆 [Talent Is a Loop, Not a Gift](https://medium.com/@orzel.jarek/talent-as-a-system-17ac05b8950a?source=rss-607ede630b31------2)
  - 🔘 [Redis and the Magic of ZSET](https://levelup.gitconnected.com/redis-and-the-magic-of-zset-732dbbfbb22a?source=rss-607ede630b31------2)
  - 📰 [Finding Balance: The Art of Living Between Extremes](https://medium.com/@orzel.jarek/finding-balance-the-art-of-living-between-extremes-05cad4064ed9?source=rss-607ede630b31------2)<!-- BLOGPOSTS:END -->
