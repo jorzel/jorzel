@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [What Does It Mean to Accept Emotions?](https://medium.com/@orzel.jarek/what-does-it-mean-to-accept-emotions-72503a678d55?source=rss-607ede630b31------2)
- - 📰 [How Software Development Is Changing with Agentic Coding](https://levelup.gitconnected.com/how-software-development-is-changing-with-agentic-coding-4e9d48b7d0fd?source=rss-607ede630b31------2)
- - 🏆 [When Deliberate Practice Isn’t Enough](https://medium.com/@orzel.jarek/when-deliberate-practice-isnt-enough-e3d8812e9a0d?source=rss-607ede630b31------2)
- - 🔘 [Tactical DDD by Example: Can We Implement Aggregates Using Redis?](https://levelup.gitconnected.com/tactical-ddd-by-example-can-we-implement-aggregates-using-redis-82e6a4804f5c?source=rss-607ede630b31------2)
- - 📰 [Talent Is a Loop, Not a Gift](https://medium.com/@orzel.jarek/talent-as-a-system-17ac05b8950a?source=rss-607ede630b31------2)<!-- BLOGPOSTS:END -->
+ - 🔥 [Coming Out of the Shadows. How Karen Carpenter Developed Her Talent](https://medium.com/@orzel.jarek/coming-out-of-the-shadows-how-karen-carpenter-developed-her-talent-bd449ae88bbd?source=rss-607ede630b31------2)
+ - 📰 [What Does It Mean to Accept Emotions?](https://medium.com/@orzel.jarek/what-does-it-mean-to-accept-emotions-72503a678d55?source=rss-607ede630b31------2)
+ - 🏆 [How Software Development Is Changing with Agentic Coding](https://levelup.gitconnected.com/how-software-development-is-changing-with-agentic-coding-4e9d48b7d0fd?source=rss-607ede630b31------2)
+ - 🔘 [When Deliberate Practice Isn’t Enough](https://medium.com/@orzel.jarek/when-deliberate-practice-isnt-enough-e3d8812e9a0d?source=rss-607ede630b31------2)
+ - 📰 [Tactical DDD by Example: Can We Implement Aggregates Using Redis?](https://levelup.gitconnected.com/tactical-ddd-by-example-can-we-implement-aggregates-using-redis-82e6a4804f5c?source=rss-607ede630b31------2)<!-- BLOGPOSTS:END -->
