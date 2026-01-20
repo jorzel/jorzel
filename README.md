@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [Why You Must Invest Before You Know](https://medium.com/@orzel.jarek/why-you-must-invest-before-you-know-aa0008d3f344?source=rss-607ede630b31------2)
- - 📰 [Gateway Skills](https://medium.com/@orzel.jarek/gateway-skills-809fdfbbede3?source=rss-607ede630b31------2)
- - 🏆 [Coming Out of the Shadows](https://medium.com/@orzel.jarek/coming-out-of-the-shadows-how-karen-carpenter-developed-her-talent-bd449ae88bbd?source=rss-607ede630b31------2)
- - 🔘 [What Does It Mean to Accept Emotions?](https://medium.com/@orzel.jarek/what-does-it-mean-to-accept-emotions-72503a678d55?source=rss-607ede630b31------2)
- - 📰 [How Software Development Is Changing with Agentic Coding](https://levelup.gitconnected.com/how-software-development-is-changing-with-agentic-coding-4e9d48b7d0fd?source=rss-607ede630b31------2)<!-- BLOGPOSTS:END -->
+ - 🔥 [The Brain That Proved Itself](https://baos.pub/the-brain-that-proved-itself-279aaf977ef8?source=rss-607ede630b31------2)
+ - 📰 [Why You Must Invest Before You Know](https://medium.com/@orzel.jarek/why-you-must-invest-before-you-know-aa0008d3f344?source=rss-607ede630b31------2)
+ - 🏆 [Gateway Skills](https://medium.com/@orzel.jarek/gateway-skills-809fdfbbede3?source=rss-607ede630b31------2)
+ - 🔘 [Coming Out of the Shadows](https://medium.com/@orzel.jarek/coming-out-of-the-shadows-how-karen-carpenter-developed-her-talent-bd449ae88bbd?source=rss-607ede630b31------2)
+ - 📰 [What Does It Mean to Accept Emotions?](https://medium.com/@orzel.jarek/what-does-it-mean-to-accept-emotions-72503a678d55?source=rss-607ede630b31------2)<!-- BLOGPOSTS:END -->
