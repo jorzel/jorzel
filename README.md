@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [The Scaffolding Trick](https://medium.com/@orzel.jarek/the-scaffolding-trick-dd6877c3389d?source=rss-607ede630b31------2)
- - 📰 [Single Skill: What Makes Engineers Great](https://levelup.gitconnected.com/single-skill-what-makes-engineers-great-e79b824ca522?source=rss-607ede630b31------2)
- - 🏆 [How to Use Claude Code](https://levelup.gitconnected.com/how-to-use-claude-code-bed73d273638?source=rss-607ede630b31------2)
- - 🔘 [Why Child Prodigies Rarely Become Superstars](https://medium.com/@orzel.jarek/why-child-prodigies-rarely-become-superstars-238c7fd359c8?source=rss-607ede630b31------2)
- - 📰 [The Brain That Proved Itself](https://baos.pub/the-brain-that-proved-itself-279aaf977ef8?source=rss-607ede630b31------2)<!-- BLOGPOSTS:END -->
+ - 🔥 [Intelligence is Cheap. What’s Expensive?](https://levelup.gitconnected.com/intelligence-is-cheap-whats-expensive-635bd1fb9b37?source=rss-607ede630b31------2)
+ - 📰 [The Scaffolding Trick](https://medium.com/@orzel.jarek/the-scaffolding-trick-dd6877c3389d?source=rss-607ede630b31------2)
+ - 🏆 [Single Skill: What Makes Engineers Great](https://levelup.gitconnected.com/single-skill-what-makes-engineers-great-e79b824ca522?source=rss-607ede630b31------2)
+ - 🔘 [How to Use Claude Code](https://levelup.gitconnected.com/how-to-use-claude-code-bed73d273638?source=rss-607ede630b31------2)
+ - 📰 [Why Child Prodigies Rarely Become Superstars](https://medium.com/@orzel.jarek/why-child-prodigies-rarely-become-superstars-238c7fd359c8?source=rss-607ede630b31------2)<!-- BLOGPOSTS:END -->
