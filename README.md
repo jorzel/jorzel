@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [A Life Which Is a Warning](https://baos.pub/a-life-which-is-a-warning-8ea4d06634b8?source=rss-607ede630b31------2)
- - 📰 [Intelligence is Cheap. What’s Expensive?](https://levelup.gitconnected.com/intelligence-is-cheap-whats-expensive-635bd1fb9b37?source=rss-607ede630b31------2)
- - 🏆 [The Scaffolding Trick](https://medium.com/@orzel.jarek/the-scaffolding-trick-dd6877c3389d?source=rss-607ede630b31------2)
- - 🔘 [Single Skill: What Makes Engineers Great](https://levelup.gitconnected.com/single-skill-what-makes-engineers-great-e79b824ca522?source=rss-607ede630b31------2)
- - 📰 [How to Use Claude Code](https://levelup.gitconnected.com/how-to-use-claude-code-bed73d273638?source=rss-607ede630b31------2)<!-- BLOGPOSTS:END -->
+ - 🔥 [The Trap of Knowing What You Want](https://medium.com/@orzel.jarek/the-trap-of-knowing-what-you-want-8adc2b784db7?source=rss-607ede630b31------2)
+ - 📰 [A Life Which Is a Warning](https://baos.pub/a-life-which-is-a-warning-8ea4d06634b8?source=rss-607ede630b31------2)
+ - 🏆 [Intelligence is Cheap. What’s Expensive?](https://levelup.gitconnected.com/intelligence-is-cheap-whats-expensive-635bd1fb9b37?source=rss-607ede630b31------2)
+ - 🔘 [The Scaffolding Trick](https://medium.com/@orzel.jarek/the-scaffolding-trick-dd6877c3389d?source=rss-607ede630b31------2)
+ - 📰 [Single Skill: What Makes Engineers Great](https://levelup.gitconnected.com/single-skill-what-makes-engineers-great-e79b824ca522?source=rss-607ede630b31------2)<!-- BLOGPOSTS:END -->
