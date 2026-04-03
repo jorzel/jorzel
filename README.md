@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [The Missing Color](https://medium.com/@orzel.jarek/the-missing-color-ea3f346483f0?source=rss-607ede630b31------2)
- - 📰 [The Trap of Knowing What You Want](https://medium.com/@orzel.jarek/the-trap-of-knowing-what-you-want-8adc2b784db7?source=rss-607ede630b31------2)
- - 🏆 [A Life Which Is a Warning](https://baos.pub/a-life-which-is-a-warning-8ea4d06634b8?source=rss-607ede630b31------2)
- - 🔘 [Intelligence is Cheap. What’s Expensive?](https://levelup.gitconnected.com/intelligence-is-cheap-whats-expensive-635bd1fb9b37?source=rss-607ede630b31------2)
- - 📰 [The Scaffolding Trick](https://medium.com/@orzel.jarek/the-scaffolding-trick-dd6877c3389d?source=rss-607ede630b31------2)<!-- BLOGPOSTS:END -->
+ - 🔥 [The Winston Star: What Makes Ideas Recognizable](https://medium.com/@orzel.jarek/the-winston-star-what-makes-ideas-recognizable-84bd4fea6cb3?source=rss-607ede630b31------2)
+ - 📰 [The Missing Color](https://medium.com/@orzel.jarek/the-missing-color-ea3f346483f0?source=rss-607ede630b31------2)
+ - 🏆 [The Trap of Knowing What You Want](https://medium.com/@orzel.jarek/the-trap-of-knowing-what-you-want-8adc2b784db7?source=rss-607ede630b31------2)
+ - 🔘 [A Life Which Is a Warning](https://baos.pub/a-life-which-is-a-warning-8ea4d06634b8?source=rss-607ede630b31------2)
+ - 📰 [Intelligence is Cheap. What’s Expensive?](https://levelup.gitconnected.com/intelligence-is-cheap-whats-expensive-635bd1fb9b37?source=rss-607ede630b31------2)<!-- BLOGPOSTS:END -->
