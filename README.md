@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [The Compassionate Lie](https://medium.com/illumination/the-compassionate-lie-48a45d70416b?source=rss-607ede630b31------2)
- - 📰 [The Talent Pipeline](https://medium.com/@orzel.jarek/the-talent-pipeline-08915528cef2?source=rss-607ede630b31------2)
- - 🏆 [The Winston Star: What Makes Ideas Recognizable](https://medium.com/@orzel.jarek/the-winston-star-what-makes-ideas-recognizable-84bd4fea6cb3?source=rss-607ede630b31------2)
- - 🔘 [The Missing Color](https://medium.com/@orzel.jarek/the-missing-color-ea3f346483f0?source=rss-607ede630b31------2)
- - 📰 [The Trap of Knowing What You Want](https://medium.com/@orzel.jarek/the-trap-of-knowing-what-you-want-8adc2b784db7?source=rss-607ede630b31------2)<!-- BLOGPOSTS:END -->
+ - 🔥 [The Power of Eccentricity](https://baos.pub/the-power-of-eccentricity-0c4da7fd7ae8?source=rss-607ede630b31------2)
+ - 📰 [The Compassionate Lie](https://medium.com/illumination/the-compassionate-lie-48a45d70416b?source=rss-607ede630b31------2)
+ - 🏆 [The Talent Pipeline](https://medium.com/@orzel.jarek/the-talent-pipeline-08915528cef2?source=rss-607ede630b31------2)
+ - 🔘 [The Winston Star: What Makes Ideas Recognizable](https://medium.com/@orzel.jarek/the-winston-star-what-makes-ideas-recognizable-84bd4fea6cb3?source=rss-607ede630b31------2)
+ - 📰 [The Missing Color](https://medium.com/@orzel.jarek/the-missing-color-ea3f346483f0?source=rss-607ede630b31------2)<!-- BLOGPOSTS:END -->
