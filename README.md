@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [Resilience: The Emotional Architecture of Mastery](https://medium.com/@orzel.jarek/resilience-the-emotional-architecture-of-mastery-2edf0954f517?source=rss-607ede630b31------2)
- - 📰 [Effortless Is a Myth](https://medium.com/@orzel.jarek/effortless-is-a-myth-eeae1b7510c2?source=rss-607ede630b31------2)
- - 🏆 [Tricky Software Questions](https://levelup.gitconnected.com/tricky-software-questions-0236bb36a1b9?source=rss-607ede630b31------2)
- - 🔘 [The Power of Eccentricity](https://baos.pub/the-power-of-eccentricity-0c4da7fd7ae8?source=rss-607ede630b31------2)
- - 📰 [The Compassionate Lie](https://medium.com/illumination/the-compassionate-lie-48a45d70416b?source=rss-607ede630b31------2)<!-- BLOGPOSTS:END -->
+ - 🔥 [Three Doubts About Loop Engineering](https://ai.gopubby.com/three-doubts-about-loop-engineering-96ca9cc5a6b2?source=rss-607ede630b31------2)
+ - 📰 [Resilience: The Emotional Architecture of Mastery](https://medium.com/@orzel.jarek/resilience-the-emotional-architecture-of-mastery-2edf0954f517?source=rss-607ede630b31------2)
+ - 🏆 [Effortless Is a Myth](https://medium.com/@orzel.jarek/effortless-is-a-myth-eeae1b7510c2?source=rss-607ede630b31------2)
+ - 🔘 [Tricky Software Questions](https://levelup.gitconnected.com/tricky-software-questions-0236bb36a1b9?source=rss-607ede630b31------2)
+ - 📰 [The Power of Eccentricity](https://baos.pub/the-power-of-eccentricity-0c4da7fd7ae8?source=rss-607ede630b31------2)<!-- BLOGPOSTS:END -->
