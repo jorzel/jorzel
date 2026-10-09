@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 #### :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 🔥 [Learning the Timing](https://medium.com/@orzel.jarek/learning-the-timing-bc413d6ac646?source=rss-607ede630b31------2)
- - 📰 [My Updated Claude Code Toolkit](https://levelup.gitconnected.com/my-updated-claude-code-toolkit-8eb6f0d1e7f5?source=rss-607ede630b31------2)
- - 🏆 [My essays on talent and growth have a new home](https://medium.com/@orzel.jarek/my-essays-on-talent-and-growth-have-a-new-home-0a1adf0eb8ee?source=rss-607ede630b31------2)
- - 🔘 [Don’t Make the Right Decision. Make Your Decision Right](https://medium.com/@orzel.jarek/dont-make-the-right-decision-make-your-decision-right-0dbf914369fe?source=rss-607ede630b31------2)
- - 📰 [Three Doubts About Loop Engineering](https://aiadvances.org/three-doubts-about-loop-engineering-96ca9cc5a6b2?source=rss-607ede630b31------2)<!-- BLOGPOSTS:END -->
+ - 🔥 [System Design: Requirements Are Commitments](https://levelup.gitconnected.com/system-design-requirements-are-commitments-76626fda7c5e?source=rss-607ede630b31------2)
+ - 📰 [Learning the Timing](https://medium.com/@orzel.jarek/learning-the-timing-bc413d6ac646?source=rss-607ede630b31------2)
+ - 🏆 [My Updated Claude Code Toolkit](https://levelup.gitconnected.com/my-updated-claude-code-toolkit-8eb6f0d1e7f5?source=rss-607ede630b31------2)
+ - 🔘 [My essays on talent and growth have a new home](https://medium.com/@orzel.jarek/my-essays-on-talent-and-growth-have-a-new-home-0a1adf0eb8ee?source=rss-607ede630b31------2)
+ - 📰 [Don’t Make the Right Decision. Make Your Decision Right](https://medium.com/@orzel.jarek/dont-make-the-right-decision-make-your-decision-right-0dbf914369fe?source=rss-607ede630b31------2)<!-- BLOGPOSTS:END -->
